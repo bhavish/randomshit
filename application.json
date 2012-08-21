@@ -1,0 +1,25 @@
+[
+  {
+    "settings": [ "master" ],
+    "specs": {
+      "frame" : {
+        "type" : "HTMLFrameMojit",
+        "config": {
+          "title": "Y!",
+          "child" : {
+            "type" : "framed"
+          }, 
+		  "assets" : {
+			"top" : {
+				"css" : [
+					"/static/framed/assets/index.css",
+					"/static/framed/assets/bootstrap-responsive.css",
+					"static/framed/assets/bootstrap.css"
+					]
+				}
+		 	}
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,14 @@
+
+.container.black-background {
+	background-color:#100C08;
+	color:#F5F5F5;
+	font-family:"Lucida Console";
+}
+
+.text-background {
+	background-color:#000;
+	opacity:0.8;
+	color:#F5F5F5;
+	font-family:"Lucida Console";
+	filter:alpha(opacity=80);
+}
